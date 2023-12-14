@@ -31,7 +31,7 @@ The models were evaluated based on the mean squared error (MSE) using 5-fold cro
 |---------------------|--------------------|
 | Lasso Regression    | 13.627329       |
 | Ridge Regression    | 10.333851       |
-| Elastic Net Regression | <18.1189       |
+| Elastic Net Regression | 18.1189       |
 
 ## Visualize Results
 
@@ -46,5 +46,6 @@ The models were evaluated based on the mean squared error (MSE) using 5-fold cro
 2. Run the Jupyter Notebook `jmohanty_new_version.ipynb` to execute the code.
 
 ## Author
-Janmejay Mohanty
-janmejaymohanty28899@gmail.com
+Janmejay Mohanty\
+janmejaymohanty28899@gmail.com\
+jmohanty@stevens.edu
