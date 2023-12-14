@@ -29,14 +29,18 @@ The models were evaluated based on the mean squared error (MSE) using 5-fold cro
 
 | Model               | Mean Squared Error |
 |---------------------|--------------------|
-| Lasso Regression    | \<13.627329\>       |
-| Ridge Regression    | \<10.333851\>       |
-| Elastic Net Regression | \<18.1189\>       |
+| Lasso Regression    | 13.627329       |
+| Ridge Regression    | 10.333851       |
+| Elastic Net Regression | <18.1189       |
+
+## Visualize Results
+
+![Display Image](https://github.com/Janmejay1998/CS-559-B-Machine-Learning-Fundamentals-And-Applications/blob/main/Homework%20Assignment%201/Results/models_comparision.png)
 
 ## How to Run
 
 1. Install the required packages listed in `requirements.txt`:
-
    ```bash
    pip install --no-cache-dir -r requirements.txt
    ```
+2. Run the Jupyter Notebook `jmohanty_new_version.ipynb` to execute the code.
