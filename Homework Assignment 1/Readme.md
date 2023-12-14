@@ -44,3 +44,7 @@ The models were evaluated based on the mean squared error (MSE) using 5-fold cro
    pip install --no-cache-dir -r requirements.txt
    ```
 2. Run the Jupyter Notebook `jmohanty_new_version.ipynb` to execute the code.
+
+## Author
+Janmejay Mohanty
+janmejaymohanty28899@gmail.com
